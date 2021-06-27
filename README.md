@@ -27,8 +27,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Solution URL](https://amazing-ritchie-b68fed.netlify.app/)
-- Live Site URL: [GitHub Repository](https://github.com/Codedzephyr/Stats-preview-card)
+- Solution URL: [Solution URL](https://priceless-johnson-d286b9.netlify.app/)
+- Live Site URL: [GitHub Repository](https://github.com/Codedzephyr/article-preview-component-master/edit/main/README.md)
 
 ## My process
 
