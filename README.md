@@ -27,7 +27,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Live Site URL: [Solution URL](https://priceless-johnson-d286b9.netlify.app/)
+- Live Site URL: [Live Site URL](https://priceless-johnson-d286b9.netlify.app/)
 - Solution URL: [GitHub Repository](https://github.com/Codedzephyr/article-preview-component-master/edit/main/README.md)
 
 ## My process
