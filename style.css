@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Manrope:wght@200&display=swap");
+
 .attribution {
   font-size: 11px;
   text-align: center;
@@ -13,7 +15,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  font-family: Manrope;
+  font-family: "Manrope", sans-serif;
 }
 
 main {
@@ -55,11 +57,13 @@ main {
 
 .heading {
   color: hsl(214, 17%, 51%);
+  font-weight: 700;
 }
 
 .paragraph {
   font-size: 15px;
   padding: 0px 0px;
+  font-weight: 500;
   color: hsl(212, 23%, 69%);
   font-family: Manrope;
   font-weight: 500;
